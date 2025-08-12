@@ -1,6 +1,6 @@
 # DVDRipper
 
-a console tool for ripping DVDs with a DVD Player and Linux Mint Distribution.
+a console tool for ripping DVDs with a DVD Player and a Linux computer (in this case: Linux Mint Distribution running on a 2011 MacBook Air).
 
 Aims to automate DVD ripping (for making private copies of your own DVD collection. In case your DVDs gets damaged.... ;) )
 
